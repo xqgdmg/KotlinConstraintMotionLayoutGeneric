@@ -1,0 +1,2 @@
+# KotlinConstraintMotionLayoutGeneric
+Kotlin；ConstraintLayout；MotionLayout；Generic泛型
